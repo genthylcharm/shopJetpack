@@ -1,4 +1,4 @@
-package com.dvl.shoponline
+package com.dvl.shoponline.Activity
 
 import android.annotation.SuppressLint
 import android.os.Bundle
